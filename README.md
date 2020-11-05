@@ -1,51 +1,16 @@
 # Player Settings
-A plugin which allows the creation of custom 
-in-game settings in Minecraft servers. Supports Spigot/Bukkit 1.8 - 1.14.2.
+This is the official source code of the plugin Player Settings.
 
-## Wiki
-The wiki contains a lot of information about the plugin
-and could help you to have a better understanding of how it works. 
-It also contains information on how to use the api.
-Before asking for help or making an issue, please refer to the wiki
-and try to find a fix for your issue.
-Clearly, if this does not work, you can open an issue.
+# Info
+1. Player Settings supports from 1.8 to 1.12.1. The plugin adds a very cool and configurable menu to your server's lobby/hub.
+2. The plugin works with the spigot/bukkit/paperspigot etc.
+3. With these menus, you can change the preferences that you want, like fly, hub stacker, and many others.
+4. Compatible with [icJukeBox](https://www.spigotmc.org/resources/icjukebox.6129/) and [AuthMe Reloaded](https://www.spigotmc.org/resources/authme-reloaded.6269/).
+5. This menu is one of the most searched menus, that is the reason why I made this plugin. Also the plugin is free, you can check it out on the spigot page.
 
-Read the wiki here: [Wiki](https://github.com/limbo56/PlayerSettings/wiki)
+# Link
+Where can I check out this cool plugin? Right here! Plugin Page: 
+http://bit.ly/PlayerSettings
 
-## Issues
-Before opening any issues, make sure you use one of
-the templates we provide.
-
-* [Feature request template](https://github.com/limbo56/PlayerSettings/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)
-* [Bug report template](https://github.com/limbo56/PlayerSettings/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
-
-## Installing
-Java 8 or above is required to use this API. Older versions will not work.
-
-First you will need to add the JitPack repository to your `pom.xml` file.
-```xml
-<repositories>
-    <repository>
-        <id>jitpack.io</id>
-        <url>https://jitpack.io</url>
-    </repository>
-</repositories>
-```
-Next you need to add the `playersettings-api` as a dependency.
-```xml
-<dependencies>
-    <dependency>
-        <groupId>com.github.limbo56.PlayerSettings</groupId>
-        <artifactId>playersettings-api</artifactId>
-        <version>master-SNAPSHOT</version>
-    </dependency>
-</dependencies>
-```
-
-## License
-This repository is under the MIT License.
-Before doing anything, make sure to [read it](https://github.com/limbo56/PlayerSettings/blob/master/LICENSE).
-
-## Links
-* [Discord](https://discordapp.com/invite/6gkkJ6y)
-* [Plugin Page](https://www.spigotmc.org/resources/player-settings.14622/)
+# License
+You must read the license before copying, modifying, or distributing this resource. https://github.com/limbo56/Player-Settings/blob/master/LICENSE
